@@ -1,0 +1,12 @@
+source 'http://rubygems.org'
+
+gem 'capybara'
+gem 'rspec'
+gem 'cucumber'
+gem 'rake'
+gem 'faker'
+gem 'pry'
+gem 'colorize'
+gem 'site_prism'
+gem 'selenium-webdriver'
+gem 'chromedriver-helper'
